@@ -3,4 +3,4 @@ Advent of code, probably be in several languages for fun
 
 ## 2022
 
-Starting in shell and Haskell, will see how it goes
+Starting in python. Hope to add common lisp.
